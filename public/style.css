@@ -1,0 +1,65 @@
+body{
+    margin-left: 20px;
+  
+}
+
+.chat{
+    height: 480px;
+    width: 320px;
+    background-color: rgb(218, 215, 255);
+    padding: 20px;
+    border-radius: 20px;
+    /* display:block;  
+    /* justify-content:center;
+    align-items: center; */ 
+
+}
+.msg{
+    background-color:dodgerblue;
+    color: white;
+    padding: 2px 15px;
+    border-radius: 20px;
+    /* display:;   */
+    /* justify-content:space-evenly; */
+    /* align-items: center;  */
+}
+p{
+    font-size: large;
+}
+#add{
+    background-color: rgb(41, 237, 255);
+    color: rgb(0, 0, 0);
+    font-size: large;
+    margin-left: 30px;
+    height: 40px;
+    width: 40px;
+    font-size: large;
+    width: 200px;
+
+    border-radius: 10px;
+}
+.whatsapp{
+    color: rgb(7, 203, 7) !important;
+}
+.wtsp{
+    align-items: center !important;
+    display: flex !important;
+}
+.wtsp i {
+    font-size: 2.5rem !important;
+}
+
+/* 
+#edit{
+    background: rgb(102, 255, 102);
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    
+} */
+/* #dlt{
+    background-color:red ;
+    color: white;
+    margin-left: 5rem;
+    display:inline-block;
+
+} */
